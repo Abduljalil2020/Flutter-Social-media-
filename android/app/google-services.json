@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "468725022568",
+    "project_id": "connectsocial-ad401",
+    "storage_bucket": "connectsocial-ad401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468725022568:android:ae2faf7e3a9abe6776e0dd",
+        "android_client_info": {
+          "package_name": "com.example.connect_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468725022568-0h04lss4e65csph6mfuf36hg2q8m7bu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.connect_social",
+            "certificate_hash": "961853cced4bdb3fe74a9d062153bff2a96d0e25"
+          }
+        },
+        {
+          "client_id": "468725022568-j2joo7s8qk91dh8hq5q048td0s7cfdj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb4L26fgJ8lWurP7yYAhijsWDYPLIynU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468725022568-j2joo7s8qk91dh8hq5q048td0s7cfdj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
